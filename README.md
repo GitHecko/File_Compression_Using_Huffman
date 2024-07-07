@@ -13,20 +13,6 @@ The Huffman Text File Compressor is a program designed to compress text files ef
 - Easy-to-follow on-screen instructions
 - Improved storage space management
 
-## Usage
-
-### Running the Program
-To run the Huffman Text File Compressor, follow these steps:
-
-1. Compile the program:
-    ```sh
-    gcc -o huffman_compressor huffman_compressor.c
-    ```
-
-2. Execute the compiled program:
-    ```sh
-    ./huffman_compressor
-    ```
 
 ### Example
 Here's an example of how to use the program:
